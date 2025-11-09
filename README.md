@@ -42,3 +42,7 @@ This analysis reveals that specific conceptual resonances are **highly contingen
 While no single interpretation maps perfectly, the complete survey provides a richer understanding of both Abhidhamma's insights and the deep, unresolved questions in quantum foundations.
 
 > Ultimately, this analysis demonstrates that both traditions were forced, through their own rigorous methods, to deconstruct classical notions of substance, inherent identity, and linear causality. Both converge on a profoundly counter-intuitive, process-based, and relational view of existence.
+
+
+<img width="3330" height="1862" alt="image" src="https://github.com/user-attachments/assets/17a50128-6053-48c7-aa3b-b421f1c567be" />
+
