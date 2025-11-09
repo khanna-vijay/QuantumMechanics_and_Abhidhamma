@@ -15,18 +15,13 @@ We therefore place the core doctrines of Abhidhamma—such as **momentariness** 
 
 This systematic analysis places Abhidhamma's core doctrines in dialogue with the five leading interpretations of quantum mechanics:
 
-
-* **The Copenhagen Interpretation:** The pivotal role of the observer and measurement.
-* **De Broglie-Bohm Theory:** The tension between deterministic realism and non-local guidance.
-* **The Many-Worlds Interpretation:** The integration of the observer into a branching, process-based multiverse.
-* **Spontaneous Collapse Theories:** A direct parallel between momentary events and an objective "flash" ontology.
-* **Decoherent Histories:** The emergence of classicality through consistent, non-interfering frameworks.
   
 * **The Copenhagen Interpretation (CI) / Orthodox Position championed primarily by Niels Bohr and Werner Heisenberg.** This view emphasizes the central role of observations and measurements in the very formulation of quantum mechanical laws.
 * **The Pilot-Wave Theory / De Broglie-Bohm Theory (DBBT). Suggested by Louis de Broglie and later systematically developed by David Bohm.** DBBT resolves the quantum paradoxes by proposing that a quantum system consists of both a wave and a particle.
 * **The Many-Worlds Interpretation (MWI) / Everett Interpretation. Developed by Hugh Everett III.**  MWI attempts to solve the measurement problem by removing the collapse postulate. MWI maintains that the universal wave function is the only objective reality and that it always evolves exclusively according to the deterministic, unitary Schrödinger equation.
 * **Spontaneous Collapse Theories. the Ghirardi, Rimini, and Weber (GRW) model.** Attempt to resolve the measurement problem by unifying the two incompatible dynamical rules (Schrödinger evolution and collapse) into a single, universal process. The Schrödinger equation is modified by introducing intrinsic, stochastic (random) terms that cause the wave function to spontaneously collapse.
-* **Consistent Histories (CH) / Decoherent Histories (DH).** This approach, associated with Griffiths, Omnès, Gell-Mann, and Hartle, provides a framework for quantum reasoning.DH aims to assign probabilities to sequences of quantum events (histories) in a way that is mathematically coherent and consistent with the rules of probability, even when those events are not measured.  
+* **Consistent Histories (CH) / Decoherent Histories (DH).** This approach, associated with Griffiths, Omnès, Gell-Mann, and Hartle, provides a framework for quantum reasoning.DH aims to assign probabilities to sequences of quantum events (histories) in a way that is mathematically coherent and consistent with the rules of probability, even when those events are not measured.
+  
 
 The Quantum Mechanics - Choices are then cross referenced onto key Abhidhamma elements
 
